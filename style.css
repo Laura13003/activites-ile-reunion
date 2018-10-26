@@ -10,6 +10,9 @@ header {
   background-size: cover;
 
 }
+h1, p {
+  text-align: center;
+}
   .mon-titre {
     position:relative;
     top: 20vh;
@@ -32,7 +35,9 @@ section  {
   padding: 25px;
 
 }
-#accueil{width: 600px;}
+#accueil{width: 600px;
+margin-left:30%;
+position:relative;}
 #plaine{width: 320px;}
 #escalade{width:320px;}
 #speleo{width:320px;}
